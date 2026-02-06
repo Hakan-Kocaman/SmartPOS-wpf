@@ -43,9 +43,6 @@ Hakan Kocaman
 
 
 ## 📸 Menus
-![UserMenu](https://github.com/user-attachments/assets/e10f7ce2-4092-4084-b06f-927bcabd51d8)
-![UserMenu](https://github.com/user-attachments/assets/e10f7ce2-4092-4084-b06f-927bcabd51d8)
-![WhatsApp Image 2026-02-06 at 21 37 45](https://github.com/user-attachments/assets/3b06f309-a467-4250-bee3-5bf6dd9749bc)
 ![WhatsApp Image 2026-02-06 at 21 37 45](https://github.com/user-attachments/assets/3b06f309-a467-4250-bee3-5bf6dd9749bc)
 
 ## 🪟 Cashier Menu (UserMenu)
