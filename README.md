@@ -43,7 +43,11 @@ Hakan Kocaman
 
 
 ## 📸 Menus
-![UserMenu](https://github.com/user-attachments/assets/af51ba47-4b65-4593-93e3-382dc3ead8f2)
+![UserMenu](https://github.com/user-attachments/assets/e10f7ce2-4092-4084-b06f-927bcabd51d8)
+![UserMenu](https://github.com/user-attachments/assets/e10f7ce2-4092-4084-b06f-927bcabd51d8)
+![WhatsApp Image 2026-02-06 at 21 37 45](https://github.com/user-attachments/assets/3b06f309-a467-4250-bee3-5bf6dd9749bc)
+![WhatsApp Image 2026-02-06 at 21 37 45](https://github.com/user-attachments/assets/3b06f309-a467-4250-bee3-5bf6dd9749bc)
+
 ## 🪟 Cashier Menu (UserMenu)
 
 UserMenu is the main cashier interface of the SmartPOS desktop application.  
