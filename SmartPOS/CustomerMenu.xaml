@@ -1,0 +1,82 @@
+﻿<Window x:Class="Kasa_otomasyonu.CustomerMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kasa_otomasyonu"
+        mc:Ignorable="d"
+        Title="CustomerMenu" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="121*"/>
+            <ColumnDefinition Width="879*"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0"
+                BorderBrush="LightGray"
+                Background="AliceBlue"
+                BorderThickness="1"
+                Margin="10,10,10,10" Grid.ColumnSpan="2">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1.5*"/>
+                    <RowDefinition Height="1.5*"/>
+                    <RowDefinition Height="13*"/>
+                    <RowDefinition Height="2*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock x:Name="CartTitle"
+               Grid.Row="0"
+               Text="Cart"
+               FontSize="30"
+               HorizontalAlignment="Left"
+               Margin="5"/>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="6*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0"
+                   Text="Cart Item"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   Margin="15,5,5,5"
+/>
+
+                    <TextBlock Grid.Column="1"
+                   Text="Quantity"
+                   FontSize="20"
+                   HorizontalAlignment="Center"
+                   TextAlignment="Center"
+                   Margin="5"/>
+
+                    <TextBlock Grid.Column="2"
+                   Text="Price"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   TextAlignment="Right"
+                   Margin="5,5,30,5"/>
+                </Grid>
+
+
+
+
+                <ListBox x:Name="CartList" Grid.Row="2" BorderBrush="LightGray" 
+                        HorizontalContentAlignment="Stretch"
+                         Margin="5"/>
+
+                <TextBlock x:Name="TotalPrice" Grid.Row="3" 
+                           Text="Total: ₺0.00" 
+                           FontSize="30" 
+                 
+                           HorizontalAlignment="Right" 
+                           Margin="5"/>
+
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
