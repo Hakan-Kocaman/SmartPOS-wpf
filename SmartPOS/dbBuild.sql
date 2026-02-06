@@ -39,8 +39,9 @@ Company_id int,
 
 create table Orders(
 Orders_id int identity primary key,
-Create_date date,
+Create_date date, 
 Employee_id int,
+Total_price decimal(10,2), 
 );
 
 create table OrderItem(
@@ -68,3 +69,4 @@ alter table OrderItem
 
 alter table OrderItem
  add foreign key (Orders_id) references Orders(Orders_id);
+
