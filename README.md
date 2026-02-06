@@ -40,7 +40,7 @@ The system simulates a real-world cashier workflow with product management, cart
 ## 👨‍💻 Author
 
 Hakan Kocaman
-
+---
 
 ## 📸 Menus
 ![WhatsApp Image 2026-02-06 at 21 37 45](https://github.com/user-attachments/assets/3b06f309-a467-4250-bee3-5bf6dd9749bc)
@@ -62,7 +62,7 @@ It allows the cashier to manage daily orders, monitor active transactions, contr
 - Controls transaction workflow and UI state
 - Handles cashier-side interactions in the POS process
 
-
+---
 ![CustomerMenu](https://github.com/user-attachments/assets/953ed85e-dce7-4cd6-8378-2d1427fb0e44)
 ## 🪟 Customer Display Menu (CustomerMenu)
 
@@ -83,7 +83,7 @@ It allows customers to view their current cart, follow order updates in real tim
 - Receives live data updates from UserMenu
 - Reflects transaction changes instantly
 - Enhances transparency during the POS process
-
+---
 ![AdminMenu](https://github.com/user-attachments/assets/6d0fd7b3-a6e2-4e12-815b-f357974f1e60)
 ## 🪟 Admin Panel (AdminMenu)
 
@@ -102,7 +102,7 @@ It allows authorized users to monitor system data, and control operational setti
 - Handles product and system configuration logic
 - Provides data management capabilities
 - Supports overall POS system maintenance
-
+---
 
 
 ---
