@@ -4,6 +4,9 @@ SmartPOS is a desktop point-of-sale (POS) automation application developed with 
 The system simulates a real-world cashier workflow with product management, cart operations, order processing, and multi-window GUI interaction.
 
 ---
+![C#](https://img.shields.io/badge/C%23-.NET-green)
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-yellow)
+---
 
 ## 🚀 Features
 
